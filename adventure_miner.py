@@ -17,15 +17,6 @@ from lxml import html
 		python -m pip install lxml
 		python -m pip install requests
 		python -m pip install html
-
-	python -m just tells it which python to install these under, I think 
-	lxml is restricted to python 2.7 so that's why we're running it with
-	that instead of 3.3. However, if you wanna do 3.3 or know of a better
-	way feel free to start that.
-
-	If you wanna work on this just be sure to comment or let the group
-	know what you're doing to the file cause I'm a little lost on where 
-	to go from where I'm at.
 """
 
 #Output so it doesn't clutter the console
